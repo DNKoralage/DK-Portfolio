@@ -1,0 +1,19 @@
+DEVNITH KORALAGE
+Software Developer & Systems Engineer
+Dehiwala, Sri Lanka
+dnkoralage@gmail.com | +94 78 798 4875
+
+PROFILE
+Full-Stack Developer, Systems Engineer, and Multimedia Specialist. Builds modern web platforms, TV/radio streaming server architecture, and high-quality multimedia content.
+
+SELECTED WORK
+- Indusara Media Network & Indusara TV — web platforms and automated streaming infrastructure
+- Nysco TV & Nysco Radio — custom software and real-time broadcast engine
+- 24/7 YouTube Continuous Radio — pioneer continuous automated live audio stream
+- Luminex — full-stack digital solutions and creative content production
+
+EXPERTISE
+Web Development (React, Next.js, Node.js, Tailwind CSS)
+Systems & Broadcasting (TV/Radio streaming, YouTube Live automation)
+Multimedia Production (After Effects, Filmora, directing)
+Audio Engineering (FL Studio, Cubase, composition)
